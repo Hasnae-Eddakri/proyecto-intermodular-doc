@@ -12,7 +12,7 @@ Esta web sirve como guía completa para instalar, usar y entender la arquitectur
 1. [Introducción](introduccion.md) 📖  
    *Objetivo del proyecto y problema que resuelve.*
 
-2. [Instalación](instalacion.md) 🛠️  
+2  [Instalación](instalacion.md) 🛠️  
    *Requisitos, pasos de instalación y variables de entorno.*
 
 3. [Uso](uso.md) 💻  
