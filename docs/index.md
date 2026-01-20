@@ -1,6 +1,6 @@
 # 📘 Documentación del Proyecto Intermodular
 
-![Portada del proyecto](img/home.png)
+![Portada del proyecto](/img/home.png)
 
 Bienvenido a la documentación técnica del **Proyecto Intermodular**.  
 Esta web sirve como guía completa para instalar, usar y entender la arquitectura del proyecto.
