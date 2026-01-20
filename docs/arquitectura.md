@@ -1,11 +1,12 @@
 # Arquitectura
 
-## Diagrama
+## Diagrama general
 
-![Arquitectura](img/arquitectura.png)
+![Diagrama de arquitectura](img/arquitectura.png)
+
+---
 
 ## Explicación técnica
 
-El proyecto está organizado en carpetas:
-
+El proyecto está organizado de la siguiente manera:
 
