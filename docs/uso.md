@@ -23,7 +23,8 @@ Algunos casos de uso incluyen:
 
 ## Capturas
 
-![Portada del proyecto](img/home.png)
+![Descripción de la imagen](./img/imagen.jpeg)
+
 
 ---
 
