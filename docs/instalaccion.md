@@ -17,3 +17,4 @@ Antes de instalar el proyecto, asegúrate de tener lo siguiente:
 
 ```bash
 git clone https://github.com/Hasnae-Eddakri/proyecto-intermodular-doc.git
+cd proyecto-intermodular-doc
