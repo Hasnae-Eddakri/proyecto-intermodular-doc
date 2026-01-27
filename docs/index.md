@@ -1,6 +1,6 @@
 # 📘 Documentación del Proyecto Intermodular
 
-![Portada del proyecto](./img/imagen3.jpeg)
+![Portada del proyecto](docs/img/imagen3.jpeg)
 
 
 Bienvenido a la documentación técnica del **Proyecto Intermodular**.  
