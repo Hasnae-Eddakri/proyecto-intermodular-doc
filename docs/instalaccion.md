@@ -4,10 +4,10 @@
 
 Antes de instalar el proyecto, asegúrate de tener lo siguiente:
 
-- **Git** instalado ([https://git-scm.com/](https://git-scm.com/))  
-- **Editor de texto** (VS Code, Atom, Sublime, etc.)  
-- Navegador web moderno  
-- Conexión a internet para clonar el repositorio
+- **Git** instalado ([https://git-scm.com/](https://git-scm.com/))
+- **Editor de texto** (VS Code, Atom, Sublime, etc.)
+- Navegador web moderno
+- Conexión a internet
 
 ---
 
@@ -16,4 +16,4 @@ Antes de instalar el proyecto, asegúrate de tener lo siguiente:
 1. **Clonar el repositorio desde GitHub**:
 
 ```bash
-git clone https://github.com/hasnae-eddakri/proyecto-intermodular-doc.git
+git clone https://github.com/Hasnae-Eddakri/proyecto-intermodular-doc.git
