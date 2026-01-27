@@ -2,7 +2,7 @@
 
 ## Diagrama general
 
-![Diagrama de arquitectura](img/arquitectura.png)
+![Diagrama de arquitectura](./img/imagen2.jpeg)
 
 ---
 
